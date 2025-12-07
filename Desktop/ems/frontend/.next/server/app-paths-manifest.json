@@ -1,0 +1,12 @@
+{
+  "/dashboard/attendance/page": "app/dashboard/attendance/page.js",
+  "/dashboard/departments/page": "app/dashboard/departments/page.js",
+  "/dashboard/employees/page": "app/dashboard/employees/page.js",
+  "/dashboard/leave/page": "app/dashboard/leave/page.js",
+  "/dashboard/notifications/page": "app/dashboard/notifications/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/payroll/page": "app/dashboard/payroll/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/signup/page": "app/signup/page.js"
+}
